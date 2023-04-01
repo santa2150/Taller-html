@@ -8,3 +8,96 @@
     text-align: center;
     line-height: 280%;
 }
+
+.at1{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 200%;
+}
+
+.numero{
+    height: 80px;
+}
+
+.letra{
+    height: 80px;
+}
+
+.t2{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 280%;
+}
+
+.n2{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 280%;
+}
+
+.perdiste{
+    height: 250px;
+}
+
+.t4{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+    width: 50%;
+    margin: 80px;
+    text-align: center;
+    line-height: 280%;
+}
+
+.n4{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 500px;
+    width: 50%;
+    margin: 80px;
+    text-align: center;
+    line-height: 280%;
+}
+
+.i5{
+    height: 160px;
+}
+
+.t5{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 50px;
+    width: 50%;
+    margin: 60px;
+    text-align: center;
+    line-height: 200%;
+}
+
+.n5{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    height: 500px;
+    width: 50%;
+    margin: 60px;
+    text-align: center;
+    line-height: 200%;
+}
